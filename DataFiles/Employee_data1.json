@@ -1,0 +1,16 @@
+{
+  
+  "employeeFirstName": "string",
+  "employeeLastName": "string",
+  "jobName": "string",
+  "emailId": "string",
+  "age": 0,
+  "contactNumber": 0,
+  "salary": 0,
+  "departmentName": "string",
+  "cityName": "string",
+  "address": "string",
+  "createdAt": "2024-10-25T16:19:38.389Z",
+  "updatedAt": "2024-10-25T16:19:38.389Z"
+}
+

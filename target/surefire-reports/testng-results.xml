@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T23:19:11 IST" name="Suite" finished-at="2024-10-26T23:19:13 IST" duration-ms="2115">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T23:19:11 IST" name="Test" finished-at="2024-10-26T23:19:13 IST" duration-ms="2115">
+      <class name="com.sgtesting.tests.Assignment2">
+        <test-method signature="createemployee1()[pri:1, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:11 IST" name="createemployee1" finished-at="2024-10-26T23:19:13 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createemployee1 -->
+        <test-method signature="createemployee2()[pri:2, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:13 IST" name="createemployee2" finished-at="2024-10-26T23:19:13 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createemployee2 -->
+        <test-method signature="displayemployee1()[pri:3, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:13 IST" name="displayemployee1" finished-at="2024-10-26T23:19:13 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayemployee1 -->
+        <test-method signature="displayemployee2()[pri:4, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:13 IST" name="displayemployee2" finished-at="2024-10-26T23:19:13 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayemployee2 -->
+        <test-method signature="deleteEmployee1()[pri:5, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:13 IST" name="deleteEmployee1" finished-at="2024-10-26T23:19:13 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee1 -->
+        <test-method signature="deleteEmployee2()[pri:6, instance:com.sgtesting.tests.Assignment2@3232a28a]" started-at="2024-10-26T23:19:13 IST" name="deleteEmployee2" finished-at="2024-10-26T23:19:13 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee2 -->
+      </class> <!-- com.sgtesting.tests.Assignment2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

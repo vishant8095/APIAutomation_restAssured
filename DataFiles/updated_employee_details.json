@@ -1,0 +1,15 @@
+{
+  
+  "employeeFirstName": "v=ram",
+  "employeeLastName": "vishnu",
+  "jobName": "testing",
+  "emailId": "ram@gmail.com",
+  "age": 25,
+  "contactNumber": 123456789,
+  "salary": 200000,
+  "departmentName": "testing",
+  "cityName": "banglore",
+  "address": "Attiguppe",
+  "createdAt": "2024-10-25T16:19:38.389Z",
+  "updatedAt": "2024-10-25T16:19:38.389Z"
+}
