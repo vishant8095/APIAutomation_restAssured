@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="2.852" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="2.939" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire13670755246182697200\surefirebooter-20241026231910448_3.jar C:\Users\HP\AppData\Local\Temp\surefire13670755246182697200 2024-10-26T23-19-10_220-jvmRun1 surefire-20241026231910448_1tmp surefire_0-20241026231910448_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire8400856111206202768\surefirebooter-20241220113256135_3.jar C:\Users\HP\AppData\Local\Temp\surefire8400856111206202768 2024-12-20T11-32-55_779-jvmRun1 surefire-20241220113256135_1tmp surefire_0-20241220113256135_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\APIAutomation_restAssured\target\test-classes;C:\Users\HP\eclipse-workspace\JavaCourse\javaprograming\APIAutomation_restAssured\target\classes;C:\Users\HP\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\HP\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\HP\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\HP\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\HP\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\HP\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\HP\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\HP\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\HP\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\HP\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\HP\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\HP\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\HP\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\HP\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\HP\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\HP\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\HP\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\HP\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\HP\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\HP\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\HP\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.2\jackson-databind-2.17.2.jar;C:\Users\HP\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.2\jackson-annotations-2.17.2.jar;C:\Users\HP\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.2\jackson-core-2.17.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire13670755246182697200\surefirebooter-20241026231910448_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire8400856111206202768\surefirebooter-20241220113256135_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+10"/>
@@ -51,14 +51,14 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Users/HP/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/HP/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules;D:\Server\apache-tomcat\bin;C:\Program Files\Java\jdk-17\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;;C:\Users\HP\AppData\Local\JetBrains\PyCharm Community Edition 2022.1\bin;;C:\Users\HP\AppData\Roaming\npm;C:\windows\System32;;."/>
+    <property name="java.library.path" value="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Users/HP/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700/jre/bin/server;C:/Users/HP/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700/jre/bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules;D:\Server\apache-tomcat\bin;C:\Program Files\Java\jdk-17\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;;C:\Users\HP\AppData\Local\JetBrains\PyCharm Community Edition 2022.1\bin;;C:\Users\HP\AppData\Roaming\npm;C:\Users\HP\Desktop;;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
     <property name="java.vm.version" value="17.0.6+10"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="createemployee1" classname="com.sgtesting.tests.Assignment2" time="1.839">
+  <testcase name="createemployee1" classname="com.sgtesting.tests.Assignment2" time="1.934">
     <system-out><![CDATA[thise step deals with creation of employee data in database
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
@@ -216,7 +216,7 @@ java.net.ConnectException: Connection refused: connect
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="createemployee2" classname="com.sgtesting.tests.Assignment2" time="0.035">
+  <testcase name="createemployee2" classname="com.sgtesting.tests.Assignment2" time="0.023">
     <system-out><![CDATA[this step deals with creation of employee data in database
 ]]></system-out>
     <system-err><![CDATA[java.net.ConnectException: Connection refused: connect
@@ -353,7 +353,7 @@ java.net.ConnectException: Connection refused: connect
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="displayemployee1" classname="com.sgtesting.tests.Assignment2" time="0.067">
+  <testcase name="displayemployee1" classname="com.sgtesting.tests.Assignment2" time="0.049">
     <system-out><![CDATA[this step deals with fetch employee data
 ]]></system-out>
     <system-err><![CDATA[java.net.ConnectException: Connection refused: connect
@@ -515,7 +515,7 @@ java.net.ConnectException: Connection refused: connect
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="displayemployee2" classname="com.sgtesting.tests.Assignment2" time="0.046">
+  <testcase name="displayemployee2" classname="com.sgtesting.tests.Assignment2" time="0.036">
     <system-out><![CDATA[this step deals with fetch the employee data
 ]]></system-out>
     <system-err><![CDATA[java.net.ConnectException: Connection refused: connect
@@ -668,7 +668,7 @@ java.net.ConnectException: Connection refused: connect
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="deleteEmployee1" classname="com.sgtesting.tests.Assignment2" time="0.028">
+  <testcase name="deleteEmployee1" classname="com.sgtesting.tests.Assignment2" time="0.019">
     <system-out><![CDATA[this step deals with delete the employee data
 ]]></system-out>
     <system-err><![CDATA[java.net.ConnectException: Connection refused: connect
@@ -825,7 +825,7 @@ java.net.ConnectException: Connection refused: connect
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="deleteEmployee2" classname="com.sgtesting.tests.Assignment2" time="0.028">
+  <testcase name="deleteEmployee2" classname="com.sgtesting.tests.Assignment2" time="0.017">
     <system-out><![CDATA[thise step deals with delete the employee data
 ]]></system-out>
     <system-err><![CDATA[java.net.ConnectException: Connection refused: connect
